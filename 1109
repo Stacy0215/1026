@@ -1,0 +1,20 @@
+<form action="https://www.queenshop.com.tw/zh-TW/QueenShop/ProductList"method="GET">
+<input type="text"name="item1">
+<input type="submit"value="OK">
+</form>
+
+<form action="https://www.queenshop.com.tw/zh-TW/QueenShop/ProductList"method="GET">
+<select name="item1">
+<option value="00">NEW IN</option>
+<option value="23"selected>選品企業</option>
+<option value="11">旅拍企劃</option>
+<option value="01">ITEM</option>
+<option value="03">SALE</option>
+</select>
+<input type="submit"value="OK">
+</form>
+
+<form action="https://www.google.com/search"method="GET">
+<input type="text"name="q">
+<input type="submit"value="OK">
+</form>
